@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanvir Islam</h1>
 <h3 align="center">A Software Engineer and Content Creator</h3>
 
-- 🔭 I’m currently working on **Something**
+- 🔭 I’m currently working on **A Job Application Tracker**
 
 - 🌱 I’m currently learning **NextJs, Tailwind CSS, TypeScript**
 
 - 📫 How to reach me **tanvirislamnyc@gmail.com**
 
-- ⚡ Fun fact **I can play any sports**
+- ⚡ Fun fact **I make CS Content**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
