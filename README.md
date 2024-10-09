@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Job Application Tracker**
 
-- 🌱 I’m currently learning **NextJs, Tailwind CSS, TypeScript**
+- 🌱 I’m currently learning **NextJs, Tailwind CSS, TypeScript, MongoDB**
 
 - 📫 How to reach me **tanvirislamnyc@gmail.com**
 
