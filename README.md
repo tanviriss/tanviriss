@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **tanvirislamnyc@gmail.com**
 
-- ⚡ Fun fact **I make CS Content**
+- ⚡ Fun fact **I make CS Content, check me at @tancodes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
