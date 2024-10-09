@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tanvir Islam</h1>
-<h3 align="center">A Software Engineer and Content Creator</h3>
+<h3 align="center">Software Engineer and Content Creator</h3>
 
 - 🔭 I’m currently working on **A Job Application Tracker**
 
