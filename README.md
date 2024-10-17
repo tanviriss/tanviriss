@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Tanvir Islam</h1>
+<h1 align="center">Hey 👋, I'm Tanvir Islam</h1>
+<h2 align="center">Computer Science at The City College of New York</h2>
 <h3 align="center">Software Engineer and Content Creator</h3>
 
 - 🔭 I’m currently working on **A Job Application Tracker**
 
-- 🌱 I’m currently learning **NextJs, Tailwind CSS, TypeScript, MongoDB**
+- 🌱 I’m currently learning **ReactJs, Tailwind CSS, TypeScript, MongoDB, Express**
 
 - 📫 How to reach me **tanvirislamnyc@gmail.com**
 
-- ⚡ Fun fact **I make CS Content, check me at @tancodes**
+- ⚡ Fun fact **I make CS Content**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
