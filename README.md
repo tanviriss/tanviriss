@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, I'm Tanvir Islam</h1>
 <h2 align="center">Computer Science and Economics at The City College of New York</h2>
-<h2 align="center">Software Engineer Intern at Cognizant</h2>
 <h3 align="center">Software Engineer and Content Creator</h3>
 
 <!--- 🔭 I’m currently working on ****-->
+- 🧑‍💻 I'm currently a Software Engineer Intern at Cognizant
 
 - 🌱 I’m currently learning **Flask and NextJs**
 
