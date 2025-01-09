@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer and Content Creator</h3>
 
 <!--- 🔭 I’m currently working on ****-->
-- 🧑‍💻 I'm currently a Software Engineer Intern at Cognizant
+- 🧑‍💻 I'm currently interning at Cognizant as a Software Engineer
 
 - 🌱 I’m currently learning **Flask and NextJs**
 
