@@ -5,7 +5,7 @@
 <!--- 🔭 I’m currently working on ****-->
 - 🧑‍💻 I'm currently interning at Cognizant as a Software Engineer
 
-- 🌱 I’m currently learning **Flask and NextJs**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 📫 How to reach me **tanvirislamnyc@gmail.com**
 
