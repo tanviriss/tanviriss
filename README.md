@@ -25,7 +25,7 @@ My name is Tanvir Islam, second year Computer Science student at City College of
 
 **Developer Tools:**  
 
-![AWS](https://img.shields.io/badge/aws-E44C30?style=for-the-badge&logo=aws&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-100000?style=for-the-badge&logo=aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-E44C30?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
