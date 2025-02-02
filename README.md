@@ -41,20 +41,20 @@ My name is Tanvir Islam, I'm a student at The City College of New York. Computer
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arnavdeepaware&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavdeepaware&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tanviriss&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanviriss&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arnavdeepaware&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanviriss&theme=tokyonight" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavdeepaware&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanviriss&theme=tokyonight" alt="GitHub Profile Summary"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=arnavdeepaware&theme=tokyonight&row=1&column=6" alt="GitHub Profile Trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tanviriss&theme=tokyonight&row=1&column=6" alt="GitHub Profile Trophy"/>
 </div>
 
 
