@@ -14,6 +14,7 @@ My name is Tanvir Islam, I'm a student at The City College of New York. Computer
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frameworks:** 
+
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -25,6 +26,7 @@ My name is Tanvir Islam, I'm a student at The City College of New York. Computer
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 **Developer Tools:**  
+
 ![AWS](https://img.shields.io/badge/aws-100000?style=for-the-badge&logo=aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-E44C30?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
