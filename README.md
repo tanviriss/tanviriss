@@ -1,5 +1,5 @@
 # About Me: 
-My name is Tanvir Islam, I'm a student at The City College of New York. Computer Science Major, Economics Minor. I'm a software engineer intern at OpenGym. I was a previous software engineer intern at Cognizant. During my free time, I enjoy watching shows, hiking, and playing soccer. 
+Tanvir Islam. Computer Science Major. Previous software engineer intern at Cognizant & OpenGym. Love soccer and photography.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanviriss/) 
