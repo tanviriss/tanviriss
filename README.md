@@ -1,5 +1,5 @@
 # About Me: 
-Tanvir Islam. Computer Science Major. Previous software engineer intern at Cognizant & OpenGym. Love soccer and photography.
+Hi, my name is Tanvir Islam. Computer Science Major. Previous software engineer intern at Cognizant & OpenGym. Love soccer, photography, and hiking.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanviriss/) 
