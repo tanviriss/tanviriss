@@ -22,7 +22,7 @@ Hi, my name is Tanvir. Computer Science Major. Previous software engineer intern
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
-**Technologies:**  
+**Technologies and Cloud:**  
 
 ![AWS](https://img.shields.io/badge/aws-100000?style=for-the-badge&logo=aws&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-E44C30?style=for-the-badge&logo=postman&logoColor=white)
@@ -30,8 +30,8 @@ Hi, my name is Tanvir. Computer Science Major. Previous software engineer intern
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-!![Langchain](https://img.shields.io/badge/Langchain-3ECF8E?style=for-the-badge&logo=langchain&logoColor=white)
-!![Docker](https://img.shields.io/badge/Docker-3ECF8E?style=for-the-badge&logo=docker&logoColor=white)
+![Langchain](https://img.shields.io/badge/Langchain-3ECF8E?style=for-the-badge&logo=langchain&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3ECF8E?style=for-the-badge&logo=docker&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
