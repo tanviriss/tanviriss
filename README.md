@@ -1,5 +1,5 @@
 # About Me: 
-Hi, my name is Tanvir. Computer Science Major. Previous software engineer intern at Cognizant & OpenGym. I'm Tech Content Creator, find me @tancodes. I Love soccer, photography, and hiking.
+Hi, my name is Tanvir | CS and Econ | Previous software engineer intern at Cognizant & OpenGym. I'm Tech Content Creator, find me @tancodes. I Love soccer, photography, and hiking.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanviriss/) 
@@ -9,8 +9,6 @@ Hi, my name is Tanvir. Computer Science Major. Previous software engineer intern
 **Languages:**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
