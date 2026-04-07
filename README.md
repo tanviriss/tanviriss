@@ -1,5 +1,5 @@
 # About Me: 
-Hi, my name is Tanvir | CS and Econ | Previous software engineer intern at Cognizant & OpenGym. I'm Tech Content Creator, find me @tancodes. I Love soccer, photography, and hiking.
+Hi, my name is Tanvir. Incoming SWE Intern @ GitHub. I'm Tech Content Creator, find me @tancodes. I Love soccer, photography, and hiking.
 
 # Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanviriss/) 
